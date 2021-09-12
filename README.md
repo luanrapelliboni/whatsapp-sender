@@ -1,3 +1,3 @@
 # whatsapp-sender
 
-[screenshot.png](./screenshot.png)
+![preview](screenshot.png)
