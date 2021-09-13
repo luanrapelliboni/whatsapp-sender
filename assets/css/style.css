@@ -1,0 +1,54 @@
+h1 {
+    color: #22af56;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#phone {
+    border: 1px solid #25d366;
+    box-shadow: 1px 1px 2px #888;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    text-align: center;
+    font-size: 30px;
+    height: 56px;
+}
+
+input:focus {
+    outline: none;
+}
+
+.whatsapp-link {
+    position: fixed;
+    width: 300px;
+    height: 60px;
+    background-color: #25d366;
+    color: #fff;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 1px 1px 2px #888;
+    z-index: 1000;
+    text-decoration: none;
+}
+
+.whatsapp-link span {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 15px;
+}
+
+.fa-whatsapp {
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+form#whatsapp-form {
+    margin: auto;
+    width: 620px;
+}
